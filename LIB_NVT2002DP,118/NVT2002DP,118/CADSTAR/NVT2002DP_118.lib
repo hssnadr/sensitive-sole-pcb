@@ -1,0 +1,16 @@
+.NVT2002DP_118 :1 ;Translation - Voltage Levels Interface IC
+SOP65P490X110-8N
+*STM IC
+*NGS
+*PLB 1="GND" 2="VREFA" 3="A1" 4="A2" 5="B2" 6="B1" 7="VREFB" 8="EN"
+*MXP 8
+*DFN NVT2002DP_118
+~!Mouser Part Number (771-NVT2002DP118)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/NVT2002DP118?qs=htEP9ZFZyENRaE6OF%252BxM8A%3D%3D)
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (NVT2002DP,118)
+~!Link Datasheet (http://www.nxp.com/docs/en/data-sheet/NVT2001_NVT2002.pdf)
+~!Height (1.1mm)
+~!3D_Model (NVT2002DP,118)
+NVT2002DP_118
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 
