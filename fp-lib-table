@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Movuino")(type "KiCad")(uri "${KIPRJMOD}/Movuino.pretty")(options "")(descr ""))
+)

@@ -1808,7 +1808,7 @@
     (property "Value" "DF12-36NOLEGS-MALE" (at 105.41 27.1526 0)
       (effects (font (size 1.4986 1.4986)))
     )
-    (property "Footprint" "MovuinoESP8266:DF12-36-DP-NL" (at 104.14 49.53 0)
+    (property "Footprint" "Movuino:DF12-36-DP-NL" (at 104.14 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 104.14 49.53 0)
