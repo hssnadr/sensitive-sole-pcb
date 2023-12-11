@@ -1891,19 +1891,19 @@
     (property "Reference" "D1" (at 113.03 154.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SK6812" (at 111.76 157.48 0)
+    (property "Value" "WS2812B" (at 111.76 157.48 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm" (at 102.87 161.29 0)
+    (property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" (at 102.87 161.29 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf" (at 104.14 163.195 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (pin "1" (uuid fd049d16-28b1-486e-918a-1f199a1eb674))
+    (pin "2" (uuid d957a399-7df7-4ae6-8266-61840ac95b1f))
     (pin "3" (uuid e610a6f8-8a7c-4f57-9a73-7c96a00ec71c))
     (pin "4" (uuid a25a3e91-4202-4cd2-8a02-ad30af6e4202))
-    (pin "2" (uuid d957a399-7df7-4ae6-8266-61840ac95b1f))
     (instances
       (project "SensitiveSole"
         (path "/f67b8ac4-d503-4876-8468-34a7f8dc7022"
